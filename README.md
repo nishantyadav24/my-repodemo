@@ -1,3 +1,3 @@
 # my-repodemo
-this is my first repository created by me <br>
+this is first repository created by me <br>
 Author - Nishant Yadav
